@@ -11,6 +11,7 @@ body{
 
 #app{
   display: grid; 
+  grid: repeat(3,50px)/ auto-flow 50px;
 }
 .squares{
   width: 50px;
